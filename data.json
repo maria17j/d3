@@ -8,4 +8,4 @@
   { alumno: "Melany", nota: 9, ranking: 80 },
   { alumno: "Miguel", nota: 9.5, ranking: 50 },
   { alumno: "Maria", nota: 10, ranking: 0 },
-];
+]
